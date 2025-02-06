@@ -1,4 +1,4 @@
-# Python_Exploratory--Data-Analysis-of-Credit-Card
+# Python_Exploratory-Data-Analysis-of-Credit-Card
 This Case Study has been done on the top of python 3.7 by using folowing packages on Jupyter Notebook :
 
 pandas
